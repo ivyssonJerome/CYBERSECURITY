@@ -14,7 +14,7 @@ Statement of Applicability (SoA)
 This is a critical document that clearly outlines the control objectives and controls that have relevancy in the orgainsation’s ISMS. This document serves as a declaration of which of the standard’s 114 controls from Annex A, which has been explained in the ISO 27001 controls section, have been selected and applied within the organisations. It also provides justification for inclusion or exclusion of these controls, which reflect how each decision supports the management of information security risks. The SoA has an insurance that all stakeholders are aware of which controls are implemented and provides evidence of the organisation’s commitment to information security. ISEOBLUE
 
 Continuous Improvement
-There’s an emphasis of the importance of continuous improvement by the ISO 27001 through the Plan-DO-Check-Act (PDCA) cycle. An iterative process will ensure that the ISMS remains effective and responsive to internal and external changes. Organisations can identify areas that require improvement and take corrective actions by continually monitoring and reviewing the system’s performance. This will not only enhance the efficiency and effectiveness of the ISMS but also aligns the organisations
+There’s an emphasis of the importance of continuous improvement by the ISO 27001 through the Plan-DO-Check-Act (PDCA) cycle. An iterative process will ensure that the ISMS remains effective and responsive to internal and external changes. Organisations can identify areas that require improvement and take corrective actions by continually monitoring and reviewing the system’s performance. This will not only enhance the efficiency and effectiveness of the ISMS but also aligns the organisation's information security management practices with its evolving security landscape. ISEOBLUE
 
 
 2.3 Explain the seven core principles that guide information security management under
@@ -22,22 +22,20 @@ ISO/IEC 27001.
 https://www.controlcase.com/what-is-iso-27001/
 https://www.iseoblue.com/post/understanding-iso-27001-meaning-requirements-and-key-principles-for-effective-information-security
 
-
-
 Confidentiality
 This principle translates to data and systems that must be protected against any form of unauthorized access, from people, processes or unauthorized applications. This is enforced by using technological controls like multifactor authentication, security tokens and data encryption. What to understand abour confidentiality is that only the right people can access the information held by the organization. CONTROL CASE
 
 Integrity
-
+This principle allows for the use of processes that ensure that data is free of errors and manipulations, such as establishing if only authorized personnel has access to confidential data. This is done by vertifying the accuracy, trustworthiness, completness of data. Lastly, information integrity means data that the organization will use to pursue its business or secure effectively for others is reliably stored and not erased or damaged. CONTROL CASE
 
 Availability
-
+This principle typically refers to the maintenance and monitoring of information security management systems. It involves removing any restrictions in security processes, minimizing vulnerabilities by updating the software and hardware to the latest firmware, which then boosts business continuity by adding certain redundancies, and minimizing data loss by adding backups and disaster recovery solutions. When data is available, it means that the organizations and its clients can access the information whenever it is necessary so that business purposes and customer expectations are satisfied. CONTROL CASE
 
 Accountability
-
+This principle promotes an information security policy and establishes crucial roles and responsibilities for information security within the organisation. It also ensures that imformation security objectives align with the organisation's strategic goals. Lastly, it demonstrates commintment to informations security through active participation and support. ISEOBLUE
 
 Compliance
-This principle helps organisations with regulatory compliance, whn then ensures they meet various legal, regulatory, and contractual requirements related to information
+This principle helps organisations with regulatory compliance, whn then ensures they meet various legal, regulatory, and contractual requirements related to information security and avoid any form of penalties and legal isssues. Organizations are provided with compliance certifications. ISO management system standards such as ISO 27001 and ISO 27701, are very crucial indemonstrating compliance with regulations like GDPR and enhancing organisational trust. ISEOBLUE
 
 Risk Management
 This principle focuses on identifying, assessing and mitigating any risks presented to an organisation's information security. This then ensures that any potential threat is systematically managed and appropriate controls are implemented to protect information assets. This will include selecting and implementing suitable security controls. ISEOBLUE
