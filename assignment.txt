@@ -3,7 +3,16 @@ Identification
 This initial stage allows individuals or devices which are analyzed to act as likely sources of significant evidence. SIMPLILEARN The said evidence can appear in variety of formats e.g., text messages, documents, web search histories, and on a variety of devices such as computers, tablets. EXTERRO
 
 Preservation
+This stage allows for data to be isolated, stored, and preserved. This also includes preventing anyone from possibly tampering with the evidence. EC-COUNCIL The data can then be copied so that it can be analysed and investigated. This is very critical in digital investigations since the original evidence must be preserved in order to be considered permissible as evidence in court. EXTERRO
 
+Analysis
+This stage serves as a methodical examination of the gathered evidence. This examination provides investigators data objects such as system and user-generated files, and also seeks specific answers and certain points of departure for conclusions. SIMPLILEARN Basically the investigators recontruct fragments of data and form a holistic narrative of what happened during the crime or matter being investigated. Experts rely on the evidence and their experience and expertise. It usually takes multiple examinations and efforts to arrive at a satsfactory theory of the crime or matter that occured. EXTERRO
+
+Documentatiuon
+This stage provides investigators with tried-and-true procedures for documenting the conclusion of the analysis. They should allow other competent examiners to read through and duplicate the results. SIMPLILEARN It also prepares a record of the data which will be presented either in the court or any other venue that the investigation is being resolved. Basically documentation forms a narrative recreation of the events in question, linking with the supporting evidence in the theory which should be compelling to an outsidr party that is charged with determining guilt or innocence. EXTERRO
+
+Presentation
+This is the final stage of the digital forensics process and it entails that investigators should summarize and draw a conclusion. EC-COUNCIL The most critical aspect of this stage is the collection of digital information, which may entail ejecting electronic devices from the scene and copying or printing the device(s). SIMPLILEARN The information from the documentation is then used by the investigator to explain whatever conclusion they have drawn about the event in question. Regardless of where the conclusion is presented, the investigator must translate their expert conclusions into a comprehensible narrative that even a non-expert can easily understand and judge for themselves according to the presented details and evidence. EXTERRO
 
 1.2
 
