@@ -104,7 +104,11 @@ https://www.paloaltonetworks.com/cyberpedia/ai-in-threat-detection
 https://www.cisa.gov/sites/default/files/publications/Incident-Response-Plan-Basics_508c.pdf
 The third strategy will be to use advanced threat detection and incident response systems and mechanisms. AI and machine learning can help the global financial system detect new and complex threats quickly. By analysing data from the TransUnion breach, the algorithms can identify patterns and predict any potential threats, therefor improving the accuracy and speed of threat detection. There are two ways to use machine learning which include supervised and unsupervised learning. With supervised learning, the system will be trained on a labeled dataset, distinguishing between between normal and malicious activities and learns to predict outcomes based on input-output mapping. With unsupervised learning, since the model does not use labelled data, it will rather learn to identify anomalies, patterns, and relationships. It can detect unknown or emerging threats by identifying the deviation from standars baselines of what is considered normal. Now, advanced AI algorithms such as deep learning and neural networks can help the global financial system analyze vast data sets such as the financial data for any suspicious patterns using existing intelligence to improve their predictive capabilities over time. PALOATLONETWORKS With incident response planning, it is a written document, that will help financial institutions before, during, and after a confirmed or suspected security incident. This will help the global financial system as financial institutions have to provide detailed incident response plans in place. These plans must include clear communication strategies, and collaborations with law enforcement and cybersecurity experts to quickly identify and contain the breach before it becomes a major issue. CISA
 
-The fourth strategy will be
+The fourth strategy will be to improve data encryption and protection.
+
+The fifth strategy will be to enforce collaborations between financial institutions and governments.
+
+The last strategy will be to emphasize on using emerging technologies for cyber defense.
 
 --------------------------------------------------------------------------------------------------------------------------
 
