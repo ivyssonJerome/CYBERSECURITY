@@ -17,6 +17,17 @@ This is the final stage of the digital forensics process and it entails that inv
 1.2 
 
 
+Identification will allow, HealthNet, its patients and staff or their devices which are analyzed by the investigative team to act as likely sources of significant evidence. SIMPLILEARN The said evidence can appear in variety of formats e.g., text messages, documents, web search histories, and on a variety of devices such as computers, tablets.  EXTERRO In this case, the formats will include the patient records, which also include their personal identification numbers and medical histories.
+
+Preservation allows for the patient records to be isolated, stored, and preserved. This also includes preventing anyone from the staff and patients of HealthNet to even outsiders from possibly tampering with the evidence of how the records were compromised. EC-COUNCIL The records can then be copied so that it can be analysed and investigated. This is very critical in digital investigations since the original evidence must be preserved in order to be considered permissible as evidence in court. EXTERRO
+
+Analysis serves as a methodical examination of the gathered evidence. This examination provides investigators data objects such as system and user-generated files, and also seeks specific answers and certain points of departure for conclusions to the data breach investigation. SIMPLILEARN Basically the investigators recontruct fragments of data and form a holistic narrative of what happened during HealthNet's data breach. Experts rely on the evidence and their experience and expertise. It usually takes multiple examinations and efforts to arrive at a satsfactory theory of the data breach. EXTERRO
+
+Documentation provides investigators with tried-and-true procedures for documenting the conclusion of the analysis of the data breach that compromised the patient records. They should allow other competent examiners to read through and duplicate the results. SIMPLILEARN It also prepares a record of the data which will be presented either in the court or even at HealthNet.  EXTERRO
+
+Presentation entails that investigators should summarize and draw a conclusion of what they discovered while investigating the data breach. EC-COUNCIL The most critical aspect of this stage is the collection of digital information, which may entail ejecting electronic devices from the scene and copying or printing the device(s). SIMPLILEARN The information from the documentation is then used by the investigator to explain whatever conclusion they have drawn about the data breach of HealthNet. Regardless of where the conclusion is presented, the investigator must translate their expert conclusions into a comprehensible narrative that even a non-expert can easily understand and judge for themselves according to the presented details and evidence. This will also address the raising concerns about violations of privacy and any potential misuse of sensitive health information. EXTERRO
+
+
 
 2.1 https://www.rand.org/content/dam/rand/pubs/research_reports/RRA100/RRA137-1/RAND_RRA137-1.pdf
 AI
